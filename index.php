@@ -85,11 +85,19 @@
                     </div>
                         
                     <div class="col-md-7">
-                        <div class="product-title">Corsair GS600 600 Watt PSU</div>
-                        <div class="product-desc">The Corsair Gaming Series GS600 is the ideal price/performance choice for mid-spec gaming PC</div>
+                        <div class="product-title">Asus TUF Gaming FX504GM (Strix Hero Edition) Core i5 8th Gen 15.6" Full HD 6 GB Graphics Gaming Laptop With Genuine Win 10</div>
+                        <div class="product-desc">
+                            <h3>Features</h3>
+                            <ul>
+                                <li>Intel® Core™ i5-8300H Processor (2.30 GHz up to 4.00 GHz)</li>
+                                <li>8 GB DDR4 Ram</li>
+                                <li>1TB HDD+256GB SSD</li>
+                                <li>15.6"LED backlit FHD (1920x1080)</li>
+                            </ul>
+                        </div>
                         <div class="product-rating"><i class="fa fa-star gold"></i> <i class="fa fa-star gold"></i> <i class="fa fa-star gold"></i> <i class="fa fa-star gold"></i> <i class="fa fa-star-o"></i> </div>
                         <hr>
-                        <div class="product-price">$ 1234.00</div>
+                        <div class="product-price">$ 1287.06</div>
                         <div class="product-stock">In Stock</div>
                         <hr>
                         <div class="btn-group cart">
