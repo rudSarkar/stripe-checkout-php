@@ -21,7 +21,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="#">STRIPE CHECKOUT</a>
+            <a class="navbar-brand" href="index.php">STRIPE CHECKOUT</a>
         </div>
 
         <!-- Collect the nav links, forms, and other content for toggling -->
@@ -87,7 +87,7 @@
                     <div class="col-md-7">
                         <div class="product-title">Asus TUF Gaming FX504GM (Strix Hero Edition) Core i5 8th Gen 15.6" Full HD 6 GB Graphics Gaming Laptop With Genuine Win 10</div>
                         <div class="product-desc">
-                            <h3>Features</h3>
+                            <h4>Features</h4>
                             <ul>
                                 <li>Intel® Core™ i5-8300H Processor (2.30 GHz up to 4.00 GHz)</li>
                                 <li>8 GB DDR4 Ram</li>
@@ -101,14 +101,11 @@
                         <div class="product-stock">In Stock</div>
                         <hr>
                         <div class="btn-group cart">
-                            <button type="button" class="btn btn-success">
-                                Add to cart 
-                            </button>
-                        </div>
-                        <div class="btn-group wishlist">
-                            <button type="button" class="btn btn-danger">
-                                Add to wishlist 
-                            </button>
+                            <a href="checkout.php">
+                                <button type="button" class="btn btn-success">
+                                    Add to cart 
+                                </button>
+                            </a>
                         </div>
                     </div>
                 </div> 
